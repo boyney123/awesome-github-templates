@@ -12,7 +12,7 @@
 
 GitHub repository templates make boilerplate code management and distribution a first-class citizen on GitHub. Share boilerplate code and get new projects bootstrapped with templates.
 
-## How to use a template
+#### How to use a template
 
 If you navigate to a repository that has been marked as a template click the button `Use This Template` and you are good to go.
 
