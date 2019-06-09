@@ -24,7 +24,8 @@ If you navigate to a repository that has been marked as a template click the but
 
 ## Official Resources
 
-- [Announcement & Documentation](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/)
+- [Announcement](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/)
+- [Documentation](https://help.github.com/en/articles/creating-a-template-repository)
 
 ## Community Resources
 
