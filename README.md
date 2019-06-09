@@ -35,6 +35,10 @@ If you navigate to a repository that has been marked as a template click the but
 
 - [ExpressJS](https://github.com/MichaelE1/express-template)
 
+### .net
+
+- [.Net core web-api](https://github.com/kolappannathan/dotnet-core-web-api-boilerplate)
+
 ### Documentation
 
 > Please don't hesitate to make a PR if you have more resources to share. Check out [contributing.md](contributing.md) for more information
