@@ -21,7 +21,7 @@ If you navigate to a repository that has been marked as a template click the but
 - [Official Resources](#official-resources)
 - [Community Resources](#community-resources)
   - [JavaScript](#javascript)
-  - [.net](#.net)
+  - [dotnet](#dotnet)
 
 ## Official Resources
 
@@ -36,7 +36,7 @@ If you navigate to a repository that has been marked as a template click the but
 
 - [ExpressJS](https://github.com/MichaelE1/express-template)
 
-### .net
+### dotnet
 
 - [.Net core web-api](https://github.com/kolappannathan/dotnet-core-web-api-boilerplate)
 
