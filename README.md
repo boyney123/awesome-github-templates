@@ -22,6 +22,7 @@ If you navigate to a repository that has been marked as a template click the but
 - [Community Resources](#community-resources)
   - [JavaScript](#javascript)
   - [dotnet](#dotnet)
+  - [Swift](#swift)
 
 ## Official Resources
 
@@ -39,6 +40,10 @@ If you navigate to a repository that has been marked as a template click the but
 ### dotnet
 
 - [.Net core web-api](https://github.com/kolappannathan/dotnet-core-web-api-boilerplate)
+
+### Swift
+
+- [Swift Package Manager](https://github.com/artemnovichkov/swift-package-template)
 
 ### Documentation
 
