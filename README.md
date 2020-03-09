@@ -41,6 +41,10 @@ If you navigate to a repository that has been marked as a template click the but
 
 - [.Net core web-api](https://github.com/kolappannathan/dotnet-core-web-api-boilerplate)
 
+### Qt/QML
+
+- [Linux QML App with GitHub Actions](https://github.com/219-design/qt-qml-project-template-with-ci)
+
 ### Swift
 
 - [Swift Package Manager](https://github.com/artemnovichkov/swift-package-template)
